@@ -45,6 +45,19 @@ You can view a complete walk-through of the platform in the following screen rec
 
 [Screen Recording - Quiz App](https://drive.google.com/file/d/1ugsghRDtCtyxMliDAszOVS3czgFvt1oV/view?usp=sharing)
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/467d104f-fab6-44d2-846a-274c9fdf8497" alt="Image 1" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/a2d4aab6-a5c2-42ad-b5d2-12a18804456c" alt="Image 2" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/3c54a537-0d43-4bec-a6c5-971a391b8fec" alt="Image 3" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/c6067486-7e5d-45c3-9acb-15407b2ba206" alt="Image 4" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/668462ac-7c73-42cb-996a-9c7ba34989ba" alt="Image 5" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/68762111-e1cd-4760-8a5e-6311d4aea9eb" alt="Image 6" width="200">
+</p>
+
+
+
 ## Getting Started
 
 Follow the instructions below to set up the project locally.
